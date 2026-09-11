@@ -1,2 +1,0 @@
-> bisa scan port dengan ip yang sudah kita tau
-    - kalau kita nggak tau ip, apa bisa kita tambahin untuk scan ip juga, jadi selain bisa scan port, bisa scan ip juga 
